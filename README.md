@@ -1,5 +1,5 @@
-### 1. marQuee.vue 组件
-### marQuee.vue 组件：   在Vue 表格操作中实现图片切换 点击大图实现循环切换
+### 1. marQuee.vue 组件  
+### 在Vue 表格操作中实现图片切换 点击大图实现循环切换
 
 {
  	title: this.$t("detail"),

@@ -27,4 +27,4 @@
 
 ### 记得注册这个组件哈！
 ### 看看效果图！
-![image](http://github.com/yannanna0920/Vue_Component/tree/master/images/picture.gif)
+![image](http://github.com/yannanna0920/Vue_Component/raw/master/images/picture.gif)

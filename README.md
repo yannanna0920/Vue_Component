@@ -1,4 +1,4 @@
-##1. marQuee.vue 组件  
+# 1. marQuee.vue 组件  
 
 ### 在Vue 表格操作中实现图片切换 点击大图实现循环切换
 
@@ -27,4 +27,4 @@
 
 ### 记得注册这个组件哈！
 ### 看看效果图！
-![image](https://github.com/yannanna0920/Vue_Component/images/picture.gif)
+![image](https://github.com/yannanna0920/Vue_Component/tree/master/images/picture.gif)
